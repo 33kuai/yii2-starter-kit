@@ -86,7 +86,6 @@
     "alexandernst/yii2-device-detect": "0.0.12",
     "mootensai/yii2-enhanced-gii": "dev-master",
     "thamtech/yii2-ratelimiter-advanced": "*",
-    "dmstr/yii2-web": "dev-master",
     "mohorev/yii2-upload-behavior": "*",
     "yii-dream-team/yii2-upload-behavior": "*",
     "enqueue/amqp-lib": "^0.10.1",
